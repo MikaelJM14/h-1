@@ -1,8 +1,8 @@
-﻿var imie = "Ewa";
+﻿var name = "Ewa";
 char sex = 'F';
-int wyec = 30;
+int age = 30;
 
-if (imie == "Ewa" || sex == 'F' || wyec == 30)
+if (name == "Ewa" || sex == 'F' || age == 30)
 {
     Console.WriteLine("Ewa, 30 lat");
 }
